@@ -7,6 +7,10 @@ Projeto de desafio da Alura de um site de uma barbearia, com três páginas HOME
 
 ##
 
+APRESENTAÇÃO GERAL
+
+
+
 HOME
 
 
