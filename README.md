@@ -26,3 +26,10 @@ https://user-images.githubusercontent.com/100815122/171063559-5790676d-5cab-4321
 CONTATO
 
 https://user-images.githubusercontent.com/100815122/171063550-cf6434a2-e828-4dc0-abd0-e7d8dddc1ba8.mp4
+
+<h1>Software Utilizado</h1>
+- Visual Studio Editor
+
+<h2>Linguagem Utilizado</h2>
+- HTML
+- CSS
